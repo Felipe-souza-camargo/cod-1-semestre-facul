@@ -1,0 +1,19 @@
+.Retangulo {
+  position: static;
+  width: 1440px;
+  height: 114px;
+  background-color: aqua;
+}
+.Calculadora {
+  width: 552px;
+  height: 87px;
+  font-family: ComicSansMS;
+  font-size: 105px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000000;
+}
